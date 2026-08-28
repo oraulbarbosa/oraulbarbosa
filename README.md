@@ -19,8 +19,12 @@
 </div>
 
 <h2 align="center"><em> 📊 Estatísticas do GitHub: </em></h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oraulbarbosa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats">
+   <a href="https://github.com/gabsb403">
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oraulbarbosa&theme=dark"/>
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oraulbarbosa&theme=dark"/>
+   </a>
 </div>
 
 <h2 align="center"><em> 📍 Como me encontrar: </em></h2>
