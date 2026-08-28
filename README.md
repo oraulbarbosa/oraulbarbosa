@@ -21,7 +21,7 @@
 <h2 align="center"><em> 📊 Estatísticas do GitHub: </em></h2>
 
 <div align="center">
-   <a href="https://github.com/gabsb403">
+   <a href="https://github.com/oraulbarbosa">
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oraulbarbosa&theme=dark"/>
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oraulbarbosa&theme=dark"/>
    </a>
