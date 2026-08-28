@@ -1,15 +1,16 @@
 <img width="1200" height="450" alt="Image" src="https://github.com/user-attachments/assets/00e0d602-def0-46d4-b5b8-19a893d5df83" />
 
-### Olá, eu sou o Raul! 👋
+<h2 align="center">  <em> Olá, eu sou o Raul! 👋 </em> </h2>
 
-- 💻 Estudando Desenvolvimento de Sistemas e construindo minha base em programação.
-- 🐍 Praticando lógica e algoritmos com Python e JavaScript.
-- 🌐 Aprendendo HTML e CSS para estruturação e estilização de páginas web.
-- 📐 Arquiteto e Urbanista em transição para a Engenharia de Software.
-- ♟️ Entusiasta de lógica, design e resolução de problemas complexos.
+<p align="center">
+   <b> - 💻 Estudando Desenvolvimento de Sistemas e construindo minha base em programação. </b></em> <br/>
+   <b> - 🐍 Praticando lógica e algoritmos com Python e JavaScript. </b><br/>
+   <b> - 🌐 Aprendendo HTML e CSS para estruturação e estilização de páginas web. </b> <br/>
+   <b> - 📐 Arquiteto e Urbanista em transição para a Engenharia de Software.  </b> <br/>
+   <b> -♟️ Entusiasta de lógica, design e resolução de problemas complexos.  </b> <br/>
+</p>
 
-## 🛠️ Tecnologias e Ferramentas: 
-
+<h2 align="center">  <em> 💻 Tecnologias e Ferramentas </em> </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
@@ -18,9 +19,13 @@
   <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">  <em> 📊 Estatísticas do GitHub </em> </h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=oraulbarbosa&show_icons=true&theme=radical">
+
+<h2 align="center">  <em> 📊 📍 Como me encontrar: </em> </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oraulbarbosa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
+  <a href="mailto:raulbarbosa.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/raul-henrique-92b13a6a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" 
