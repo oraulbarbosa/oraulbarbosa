@@ -1,7 +1,8 @@
+<img width="1200" height="450" alt="Image" src="https://github.com/user-attachments/assets/00e0d602-def0-46d4-b5b8-19a893d5df83" />
 <h2 align="center"><em> Olá, eu sou o Raul! 👋 </em></h2>
 
 <p align="center">
-  💻 Estudante de Desenvolvimento de Sistemas e construindo minha base em programação. <br/>
+  💻 Estudando Desenvolvimento de Sistemas e construindo minha base em programação. <br/>
   🐍 Praticando lógica e algoritmos com Python e JavaScript. <br/>
   🌐 Aprendendo HTML e CSS para estruturação e estilização de páginas web. <br/>
   📐 Arquiteto e Urbanista em transição para a Engenharia de Software. <br/>
