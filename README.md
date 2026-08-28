@@ -1,5 +1,5 @@
 <img width="1200" height="450" alt="Image" src="https://github.com/user-attachments/assets/00e0d602-def0-46d4-b5b8-19a893d5df83" />
-<h2 align="center"><em> Olá, eu sou o Raul! 👋 </em></h2>
+<h2 align="center"> 👋 <em> Olá, eu sou o Raul!  </em></h2>
 
 <p align="center">
   💻 Estudando Desenvolvimento de Sistemas e construindo minha base em programação. <br/>
