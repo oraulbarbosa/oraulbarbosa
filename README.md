@@ -23,5 +23,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oraulbarbosa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
 </div>
-
-(https://github-readme-stats.vercel.app/api?username=oraulbarbosa&show_icons=true&theme=tokyonight)   
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" 
