@@ -6,7 +6,7 @@
   🐍 Praticando lógica e algoritmos com Python e JavaScript. <br/>
   🌐 Aprendendo HTML e CSS para estruturação e estilização de páginas web. <br/>
   📐 Arquiteto e Urbanista em transição para a Engenharia de Software. <br/>
-  ♟️ Entusiasta de lógica, design e resolução de problemas complexos.
+  ♟️ Entusiasta de lógica, design e resolução de problemas.
 </p>
 
 <h2 align="center"><em> 💻 Tecnologias e Ferramentas </em></h2>
