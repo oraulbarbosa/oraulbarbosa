@@ -9,7 +9,7 @@
   ♟️ Entusiasta de lógica, design e resolução de problemas.
 </p>
 
-<h2 align="center"><em> 💻 Tecnologias e Ferramentas </em></h2>
+<h2 align="center"> 💻 <em> Tecnologias e Ferramentas: </em></h2>
 <div align="center">
   <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
-<h2 align="center"><em> 📊 Estatísticas do GitHub: </em></h2>
+<h2 align="center"> 📊 <em> Estatísticas do GitHub: </em></h2>
 
 <div align="center">
    <a href="https://github.com/oraulbarbosa">
@@ -27,7 +27,7 @@
    </a>
 </div>
 
-<h2 align="center"><em> 📍 Como me encontrar: </em></h2>
+<h2 align="center"> 📍 <em> Como me encontrar: </em></h2>
 <div align="center">
   <a href="mailto:raulbarbosa.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/raul-henrique-92b13a6a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
